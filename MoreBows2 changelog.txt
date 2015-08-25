@@ -1,0 +1,26 @@
+Changelog:
+
+//Beta 1.2:
+
+-Fixed arrows bouncing back on Explosive Bow
+-Fixed Explosive Bow not knocking back targets
+
+-Added Bedrock Chisel; by rightclicking some Bedrock with it, the Bedrock will turn into Enriched Bedrock (still unbreakable)
+ and drop a Rockhead Shard with a chance of 12.5%
+-Replaced Bedrock Ingots with Rockhead Shards 
+-Renamed Bedrock Bow to Rockhead Bow, changed recipe
+
+-Steel Ingots can be (rarely) found in dungeons and mineshafts
+
+-Added Thunder Law, bow that spawns lightning when it hits something (while rain only); crafted from Lightning's Splitters (BUG: lightning currently is invisible)
+-Added Inferno Gate, a bow that creates a flaming explosion when it hits; crafted from Cursed Blaze Rods
+-Added Ultimate Judment, a bow that will inflict great damage to monsters but is fairly harmless to friendly mobs like animals; crafted from Sacred Ivory
+-Added Lightning's Splitter (spawns in jungle temple chests, very, very rare), Cursed Blaze Rods (spawns in pyramid chests, just as rare), 
+ Sacred Ivory (spawns in end dungeon corridors, very, very rare)
+
+-Changed Legia Bow by some aspects; It will only shoot 2 arrows and each arrow needs to be in the players inventory, the arrows 
+ do not bounce off the target anymore and you can collect
+
+-Changed Dark Quartz texture
+-Changed Steel Ingot texture
+-Changed Steel Block texture

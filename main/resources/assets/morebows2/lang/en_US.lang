@@ -1,0 +1,51 @@
+item.ReinforcedBow.name=Reinforced Bow
+item.IronBow.name=Iron Bow
+item.GoldBow.name=Golden Bow
+item.CrystalBow.name=Crystal Bow
+item.EmeraldBow.name=Emerald Bow
+item.ObsidianBow.name=Obsidian Bow
+item.FlameBow.name=Blazing Bow
+item.FrostBow.name=Frost Bow
+item.HealingBow.name=Healing Bow
+item.SteelBow.name=Steel Bow
+item.LegiaBow.name=Legia Bow
+item.GlassBow.name=Glass Bow
+item.PoisonBow.name=Poison Bow
+item.QuartzBow.name=Quartz Bow
+item.LapisBow.name=Lapis Bow
+item.DarknessBow.name=Bow of Darkness
+item.ExplosiveBow.name=Explosive Bow
+item.RockheadBow.name=Rockhead Bow
+item.NauseaBow.name=Puke Knight's Bow
+item.FatigueBow.name=Fatiguing Bow
+item.ClassicBow.name=Classic Bow
+item.LightningBow.name=Thunder Law
+item.SacredBow.name=Ultimate Judgment
+item.InfernoBow.name=Inferno Gate
+
+tile.SteelBlock.name=Block of Steel
+tile.QuartzBlockDark.name=Block of Dark Quartz
+tile.QuartzBlockCharged.name=Block of Charged Quartz
+tile.EnrichedBedrock.name=Enriched Bedrock
+
+item.LightningsShard.name=Lightning's Splitter
+item.CursedBlazeRod.name=Cursed Blaze Rod
+item.SacredIvory.name=Sacred Ivory
+
+item.DarkQuartz.name=Dark Quartz
+item.RockheadShard.name=Rockhead Shard
+item.SteelIngot.name=Steel Ingot
+
+item.BedrockChisel.name=Bedrock Chisel
+
+itemGroup.MoreBowsTab=More Bows 2
+itemGroup.MoreBowsMiscTab=More Bows 2 Misc
+
+death.attack.MB2Exorcism=%1$s was exorcised
+
+
+
+
+
+
+
